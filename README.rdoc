@@ -1,1 +1,26 @@
 BortBot revisited. Free bort. Limit one.
+
+From my blog: http://willricketts.com
+
+IT'S TIME TO START OPEN SOURCING
+
+I've always been a really big fan of the open source movement, but I've, for the most part, been a spectator. Lately, I've been becoming drawn to publishing open source projects to Github. 
+
+I've released one open source project, but it's mostly useless and terribly written as it was a spontaneous project that was needed quickly, so it was rapidly built and terribly insecure. The security wasn't really that big of a deal, due to it only being used internally.​ The application, which I called "BortBot," is a PHP-based service order tracking system with customer management and admin features for a local computer store in the city I used to live in.
+
+​To illustrate exactly how poorly it was written, here's code for the customer list page:
+
+[Redacted. It's on my blog.]​
+
+​Yep. It's that bad. Fortunately, quality wasn't really a requisite of this project.
+
+​This being said, I still really enjoyed the act of tossing it up on Github for others to modify and redistribute, though I don't know why anyone would in BortBot's case. As soon as I committed the code, I decided that I needed to make open sourcing projects a thing that I do. Check my Github, and I might have some new projects ready for forking.
+
+
+
+
+
+
+
+
+...thanks Brian!
